@@ -1,0 +1,11 @@
+site_name: My Finca Tropicana
+site_description: My Finca Tropicana, jeu vidéo de simulation dans lequel le joueur doit gérer sa ferme.
+site_author: Joffrey Bienvenu
+theme:
+  name: 'rtd-dropdown'
+extra_css:
+    - assets/css/style.css
+nav:
+    - 'Accueil': 'index.md'
+    - 'Fonctionnalités': 'features.md'
+    - 'Roadmap': 'https://trello.com/b/aoI4ZznE/my-finca-tropicana-roadmap'
