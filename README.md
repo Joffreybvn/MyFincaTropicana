@@ -1,0 +1,1 @@
+![My Finca Tropicana logo](.docs/assets/images/logo.png)
