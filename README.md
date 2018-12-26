@@ -1,6 +1,6 @@
-<div style="text-align:center">
-![My Finca Tropicana logo](./docs/assets/images/logo.png)
-</div>
+<p align="center">
+  <img src="./docs/assets/images/logo.png">
+</p>
 
 My Finca Tropicana is a farm management game currently in development.
 
